@@ -1,3 +1,5 @@
+🚀 Predicting customer churn with 79% recall using class imbalance handling
+
 # 📉 Customer Churn Prediction
 
 ## 📌 Overview
