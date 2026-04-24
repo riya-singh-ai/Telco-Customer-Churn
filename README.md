@@ -62,10 +62,10 @@ This model helps:
 ## 📈 Visualizations
 
 ### 🔹 Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
+![Churn Distribution](churn_distribution.png)
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
