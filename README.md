@@ -77,8 +77,7 @@ This model helps:
 
 - Handling class imbalance significantly improves model performance  
 - Accuracy alone is misleading for imbalanced datasets  
-- Logistic Regression outperformed Random Forest for recall  
-
+- Logistic Regression with class balancing outperformed Random Forest in detecting churn customers.
 ---
 ## 💼 Business Impact
 
