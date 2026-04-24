@@ -1,6 +1,8 @@
-🚀 Predicting customer churn with 79% recall using class imbalance handling
+
 
 # 📉 Customer Churn Prediction
+
+🚀 Predicting customer churn with 79% recall using class imbalance handling
 
 ## 📌 Overview
 This project predicts whether a customer is likely to churn (leave the company) using machine learning techniques. The goal is to help businesses identify at-risk customers and take preventive action.
