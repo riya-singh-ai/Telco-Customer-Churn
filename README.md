@@ -60,13 +60,6 @@ This model helps:
 👉 Significant improvement in detecting churn customers
 
 ---
-## 💼 Business Impact
-
-- Identifying churn-prone customers allows proactive retention
-- Improving recall means fewer customers are lost
-- Even a small improvement can lead to significant revenue savings
-  
----
 
 ## 📈 Visualizations
 
@@ -83,6 +76,13 @@ This model helps:
 - Handling class imbalance significantly improves model performance  
 - Accuracy alone is misleading for imbalanced datasets  
 - Logistic Regression outperformed Random Forest for recall  
+
+---
+## 💼 Business Impact
+
+- Identifying churn-prone customers allows proactive retention
+- Improving recall means fewer customers are lost
+- Even a small improvement can lead to significant revenue savings
 
 ---
 
